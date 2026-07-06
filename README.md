@@ -1,3 +1,3 @@
-# gyapp-artifacts
+# Lumapp-artifacts
 
-Public build artifacts for gyapp online packaging.
+Public build artifacts for Lumapp online packaging.
